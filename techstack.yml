@@ -1,0 +1,20 @@
+repo_name: TitanKing/testapi
+report_id: edd120de41d65f7a5c54006da731b875
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-26T10:02:04+00:00'
+requested_by: web-flow
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TitanKing/testapi
+  detection_source: Repo Metadata
